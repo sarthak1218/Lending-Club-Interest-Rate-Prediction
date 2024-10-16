@@ -24,7 +24,7 @@ The project utilizes two main data sources:
 
 5. **Inflation Adjustment:** The predicted interest rates are adjusted for inflation to provide a more realistic estimate of the cost of borrowing.
 
-## Insight
+## Insights
 
 <img width="712" alt="Screenshot 2024-10-16 at 2 35 51 pm" src="https://github.com/user-attachments/assets/aa2e1b15-7279-47a9-948f-d4043ad7c668">
 
